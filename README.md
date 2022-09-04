@@ -1,5 +1,9 @@
-# Curseforge Mirror Template
+# Enhanced Flight Map Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of thengel12's Enhanced Flight Map
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/enhanced-flight-map)
+
+----
+
+To open a ticket related to this repository, please do so on [this repository](https://github.com/curseforge-mirror/.github)
